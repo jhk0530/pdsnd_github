@@ -39,7 +39,7 @@ def get_filters():
   month = None
   day = None
 
-  if filter == 'month' or filter == 'both':
+  if filter in ['month', 'both']: # in
     # get user input for month 
     while True:
       month = input('Which month - January, February, March, April, May, or June?\n').lower()
@@ -47,7 +47,7 @@ def get_filters():
       print("That's not available option")
       print('Select from "January", "February", "March", "April", "May", "June"')
 
-  if filter == 'day' or filter == 'both':
+  if filter in ['day', 'both']: # in 
     # get user input for day of week (all, monday, tuesday, ... sunday)
     while True:
       day = input('Which day - Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday?\n').lower()
