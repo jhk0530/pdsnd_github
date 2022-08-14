@@ -195,6 +195,7 @@ def user_stats(df):
   print('-'*40)
 
 def main():
+  """ main application code """
   while True:
     city, month, day = get_filters()
     
