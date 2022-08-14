@@ -21,6 +21,10 @@ These data files are not included
 - `new_york_city.csv`
 - `washington.csv`
 
+### 🔧 Library Dependency
+- [`pandas`](https://pandas.pydata.org/)
+- [`numpy`](https://numpy.org/)
+
 ### 🙇 Credits
 - [<img src='https://img.shields.io/badge/-motivate-00c597'>](https://www.motivateco.com/) : Data provider
 - [<img src='https://img.shields.io/badge/-udacity-%232015ff'>](https://www.udacity.com/) : Project template provider
