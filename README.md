@@ -1,17 +1,30 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+### ⏰ Date created
+22-08-14
 
-### Date created
-Include the date you created this project and README file.
+### 📖 Project Title
 
-### Project Title
-Replace the Project Title
+<img src='https://video.udacity-data.com/topher/2018/March/5aa7718d_divvy/divvy.jpg' width = '500'>
 
-### Description
-Describe what your project is about and what it does
+🚲 _Explore US Bikeshare Data_
 
-### Files used
-Include the files used
+### ✏️ Description
+This project is building interactive python application to investigate some insights along US bikeshare data.
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+### 📁 Files used
+
+- `bikeshare.py`: main code for application
+<br/>
+
+These data files are not included
+- `chicago.csv`
+- `new_york_city.csv`
+- `washington.csv`
+
+### 🔧 Library Dependency
+- [`pandas`](https://pandas.pydata.org/)
+- [`numpy`](https://numpy.org/)
+
+### 🙇 Credits
+- [<img src='https://img.shields.io/badge/-motivate-00c597'>](https://www.motivateco.com/) : Data provider
+- [<img src='https://img.shields.io/badge/-udacity-%232015ff'>](https://www.udacity.com/) : Project template provider
