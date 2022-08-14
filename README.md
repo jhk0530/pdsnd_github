@@ -3,6 +3,8 @@
 
 ### 📖 Project Title
 
+<img src='https://video.udacity-data.com/topher/2018/March/5aa7718d_divvy/divvy.jpg' width = '500'>
+
 🚲 _Explore US Bikeshare Data_
 
 ### ✏️ Description
